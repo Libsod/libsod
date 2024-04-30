@@ -26,7 +26,9 @@
  <div align="left">
    <ul>
      <li>Love learning things related to Linux & other OSs, tinkering with my Nix config and Dotfiles, listening music, reflecting & admiring nature</li>
+     <br/>
      <li>Interested in reproducible & scalable systems, type systems, functional programming & etc.</li>
+     <br/>
      <li><b>Really interested in</b> philosophy (hobby), low-level programming, programming languages, system & software architecture & computer science</li>
    </ul>
  </div>
