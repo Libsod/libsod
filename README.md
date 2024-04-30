@@ -26,7 +26,7 @@
   <img align="right" width="2px" height="450px" alt="Transparent padding image" src="assets/gif/Padding.svg"/>
 </div>
 
- #### &ensp; I'm also:
+ <h3>&ensp; I'm also:</h3>
  <div align="left">
    <ul>
      <li>Love learning things related to Linux & other OSs, tinkering with my Nix config and Dotfiles, listening music, reflecting & admiring nature</li>
@@ -39,7 +39,7 @@
 
 <br/>
 
-#### &ensp; The projects I'm currently working on:
+<h3>&ensp; The projects I'm currently working on:</h3>
 <div align="left">
   <ul>
     <li>
