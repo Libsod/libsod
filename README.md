@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     Hi there, I'm Libsod! 
-    <img height="33px" width=33px" alt="Hand gif" src="assets/icons/hello-hand.gif"/>
+    <img height="33px" width=33px" alt="Hand gif" src="assets/icons/Hello-Hand.gif"/>
   </h1>
   <div>
     <a href="https://t.me/keemdaq" target="_blank">
@@ -20,7 +20,7 @@
 <hr/>
 
 <div>
-  <img align="right" width="435px" height="435px" alt="Gif image" src="assets/gif/vagabond.gif"/>
+  <img align="right" width="435px" height="435px" alt="Gif image" src="assets/gif/Vagabond.gif"/>
   <img align="right" width="2px" height="480px" alt="Transparent padding image" src="assets/gif/Padding.svg"/>
 </div>
 
