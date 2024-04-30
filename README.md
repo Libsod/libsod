@@ -11,12 +11,13 @@
   </div>
 </div>
 
-<h2 align="center">
+<div align="center">
+  <h1>
     About me 
     <img height="33px" width="33px" align="top" alt="Spinning dog" src="assets/icons/Dog.gif" />
-</h2>
-
-<h3 align="center">I'm 18 y.o. student, Neovim and terminal enthusiast with a passion for FOSS, rising & low-level programming</h3>
+  </h1>
+  <h3>I'm 18 y.o. student, Neovim and terminal enthusiast with a passion for FOSS, rising & low-level programming</h3>
+</div>
 
 <hr/>
 
