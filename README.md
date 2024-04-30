@@ -11,7 +11,10 @@
   </div>
 </div>
 
-<h1 align="center">About me <img height="33px" width="33px" align="top" alt="Spinning dog" src="assets/icons/Dog.gif" /></h2>
+<h2 align="center">
+    About me 
+    <img height="33px" width="33px" align="top" alt="Spinning dog" src="assets/icons/Dog.gif" />
+</h2>
 
 <h3 align="center">I'm 18 y.o. student, Neovim and terminal enthusiast with a passion for FOSS, rising & low-level programming</h3>
 
@@ -29,7 +32,7 @@
      <br/>
      <li>Interested in reproducible & scalable systems, type systems, functional programming & etc.</li>
      <br/>
-     <li><b>Really interested in</b> philosophy (hobby), low-level programming, programming languages, system & software architecture & computer science</li>
+     <li><b>Really interested in</b> philosophy (hobby), low-level programming, programming languages, system/software architecture & computer science</li>
    </ul>
  </div>
 
