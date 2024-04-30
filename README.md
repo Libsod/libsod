@@ -5,15 +5,13 @@
   </h1>
   <div>
     <a href="https://t.me/keemdaq" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
     <a href="https://discord.com/users/991234934113046548" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   </div>
 </div>
 
-<h1 align="center">About me</h2>
+<h1 align="center">About me <img alt="Spinning dog" src="assets/icons/Dog.gif" /></h2>
 
 <h3 align="center">I'm 18 y.o. student, Neovim and terminal enthusiast with a passion for FOSS, rising & low-level programming</h3>
 
