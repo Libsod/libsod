@@ -19,7 +19,7 @@
   <h3>I'm 18 y.o. student, Neovim and terminal enthusiast with a passion for FOSS, rising & low-level programming</h3>
 </div>
 
-<hr/>
+<h2></h2>
 
 <div>
   <img align="right" width="435px" height="435px" alt="Gif image" src="assets/gif/Vagabond.gif"/>
@@ -37,7 +37,7 @@
    </ul>
  </div>
 
-<br/>
+<h2></h2>
 
 <h3>&ensp; The projects I'm currently working on:</h3>
 <div align="left">
