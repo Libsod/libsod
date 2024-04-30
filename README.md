@@ -11,7 +11,7 @@
   </div>
 </div>
 
-<h1 align="center">About me <img alt="Spinning dog" src="assets/icons/Dog.gif" /></h2>
+<h1 align="center">About me <img height="33px" width="33px" align="top" alt="Spinning dog" src="assets/icons/Dog.gif" /></h2>
 
 <h3 align="center">I'm 18 y.o. student, Neovim and terminal enthusiast with a passion for FOSS, rising & low-level programming</h3>
 
