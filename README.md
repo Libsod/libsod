@@ -23,7 +23,7 @@
 
 <div>
   <img align="right" width="435px" height="435px" alt="Gif image" src="assets/gif/Vagabond.gif"/>
-  <img align="right" width="2px" height="450px" alt="Transparent padding image" src="assets/gif/Padding.svg"/>
+  <img align="right" width="0px" height="470px" alt="Transparent padding image" src="assets/gif/Padding.svg"/>
 </div>
 
  <h3>&ensp; I'm also:</h3>
