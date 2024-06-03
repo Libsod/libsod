@@ -48,11 +48,5 @@
         <a href="https://github.com/Libsod/zig-tools.nvim">zig-tools</a> — A feature-rich (someday in future) Neovim plugin that provides development tools for Zig
       </p>
     </li>
-    <li>
-      <p>
-        <img height="20px" width="20px" align="top" alt="Astro logo" src="assets/icons/AstroLogo.svg"/>
-        <a href="https://github.com/AstroNvim/astrocommunity">astrocommunity</a> — A repo of plugin specifications for Astro Neovim distribution 
-      </p>
-    </li>
   </ul>
 </div>
