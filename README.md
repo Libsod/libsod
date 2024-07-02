@@ -16,7 +16,7 @@
     About me 
     <img height="33px" width="33px" align="top" alt="Spinning dog" src="assets/icons/Dog.gif" />
   </h1>
-  <h3>I'm 18 y.o. student, Neovim and terminal enthusiast with a passion for FOSS, rising, front-end, Web3 & low-level programming</h3>
+  <h3>I'm 18 y.o. student, Neovim and terminal enthusiast with a passion for FOSS, rising, back-end, Web3 & low-level programming</h3>
 </div>
 
 <h2></h2>
@@ -33,7 +33,7 @@
      <br/>
      <li>Interested in reproducible & scalable systems, type systems, functional programming & etc.</li>
      <br/>
-     <li><b>Really interested in</b> philosophy (hobby), low-level programming, front-end & UI/UX, programming languages, blockchain, cryptocurrency, system/software architecture & computer science</li>
+     <li><b>Really interested in</b> philosophy (hobby), low-level programming, front-end & UI/UX, back-end & databases, programming languages, blockchain, cryptocurrency, system/software architecture & computer science</li>
    </ul>
  </div>
 
