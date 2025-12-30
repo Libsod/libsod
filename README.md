@@ -16,7 +16,7 @@
     About me 
     <img height="33px" width="33px" align="top" alt="Spinning dog" src="assets/icons/Dog.gif" />
   </h1>
-  <h3>I'm 18 y.o. student, Neovim and terminal enthusiast with a passion for FOSS, rising, back-end, Web3 & low-level programming</h3>
+  <h3>I'm 19 y.o. student, Neovim and terminal enthusiast with a passion for FOSS, rising, back-end, Web3 & low-level programming</h3>
 </div>
 
 <h2></h2>
